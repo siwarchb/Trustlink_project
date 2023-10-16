@@ -23,7 +23,7 @@ Before you start, make sure you have the following installed:
 ## Installation
 
 1. Clone the repository:
-git clone https://github.com/siwarchb/trustlinkproject.git
+git clone https://github.com/siwarchb/Trustlink_project.git
 
 
 
